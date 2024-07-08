@@ -10,7 +10,7 @@ when {
 
 expression {
 
-env.GIT_BRANCH == 'origin/master'
+env.GIT_BRANCH == 'origin/main'
 
 }
 
